@@ -1,0 +1,19 @@
+* {
+  background-color: rgb(31, 201, 88);
+}
+
+.conatiner {
+  display: flex;
+
+  justify-content: center;
+}
+.head {
+  margin: 20px;
+  background: none;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
